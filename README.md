@@ -9,7 +9,7 @@ Battery Percent notifier(considering on battery power or not).py <br><b> OR </b>
 <br>
 
 ### Example screenshot
-<img width="250" src="https://github.com/SarthakKeshari/Battery-Percent-Notifier/blob/main/Example_Screenshot.png">
+<img width="280" src="https://github.com/SarthakKeshari/Battery-Percent-Notifier/blob/main/Example_Screenshot.png">
 
 <br>
 
